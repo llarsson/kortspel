@@ -28,7 +28,7 @@ När ett Kungahus har fallit går vinsten till den som utrotade det Kungahuset o
 
 ## Skadetålighet
 
-Kungahusets figurer tål enligt följande: Knektar tål 25, Kungar 30 och Damer 35. Har de åsamkats Skadepoäng så att deras kvarvarande poäng är nere på 0, tas de ur spel och tillfaller anfallande spelare som Troféer.
+Klädda kort, vare sig de ingår i Kungahuset eller är Hjältar, tål enligt följande: Knektar tål 25, Kungar 30 och Damer 35. Har de åsamkats Skadepoäng så att deras kvarvarande poäng är nere på 0, tas de ur spel och tillfaller anfallande spelare som Troféer.
 
 ## Tillvägagångssätt
 
@@ -49,6 +49,8 @@ När det är en spelares tur kan denne göra en av tre drag:
 När spelaren gjort sitt drag säkerställs att denne har minst 10 kort på hand innan eventuell belöning för nya Troféer delas ut.
 
 Kort som ingick vid anfall eller helande läggs på Kasthögen. Framgångsrika Lönnmördare och Läkare läggs också i Kasthögen. Troféer tillfaller den spelare som förtjänat dem och spelarna belönas med tre kort från Draghögen per ny Trofé.
+
+Spelare som förlorat sitt Aktiva kort måste genast ersätta det med ett nytt klätt kort från handen.
 
 Tar Draghögen slut skall Kasthögen blandas och utgöra ny Draghög.
 
