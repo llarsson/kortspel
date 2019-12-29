@@ -10,7 +10,7 @@ Högar: 1 Draghög, 1 Kasthög, 1 “Aktivt kort” per spelare.
 
 Målet är att utrota fiendens Kungahus, vilket motsvaras av de klädda korten av en viss färg. 
 
-De färger som inte ingår i ett Kungahus är istället Hjältar, som spelare kan använda som Kanonmat, Läkare eller Lönnmördare. 
+De färger som inte ingår i ett Kungahus är istället Hjältar, som spelare kan använda som Legosoldater, Läkare eller Lönnmördare. 
 
 Genom att besegra kort får vinnaren av slaget dessa kort som Troféer.
 
@@ -18,11 +18,11 @@ När ett Kungahus har fallit går vinsten till den som utrotade det Kungahuset o
 
 ## Definitioner
 
-*Kanonmat* är ett klätt kort som inte ingår i spelarens kungahus. De kan ställas upp som Aktiva kort istället för någon ur det egna Kungahuset och måste således bekämpas av motståndaren.
+*Legosoldat* är ett klätt kort som inte ingår i spelarens kungahus. De kan ställas upp som Aktiva kort istället för någon ur det egna Kungahuset och måste således bekämpas av motståndaren.
 
 *Lönnmördare* är ett klätt kort som en spelare använder för att anfalla motståndarens Aktiva kort. Om deras attack är framgångsrik, skadar de mellan 6 och 14 poäng beroende på tärningskast med en tiosidig tärning (1T10). Om de misslyckas med attacken (0 på 1T10), så skadar de ingenting och dog dessutom i anfallet, vilket gör att de flyttas över till den försvarande spelarens Troféer. 
 
-*Läkare* är ett klätt kort som spelaren använder för att hela sitt egna Aktiva kort. Om dess helande är framgångsrikt, helas mellan 11 och 28 poäng, beroende på ett tärningskast med två tiosidiga tärningar (2T10). Om helandet misslyckas (0 på båda tärningar), fumlar läkaren och det Aktiva kortet dör, oavsett tidigare skada.
+*Läkare* är ett klätt kort som spelaren använder för att hela sitt egna Aktiva kort. Om dess helande är framgångsrikt, helas mellan 11 och 28 poäng, beroende på ett tärningskast med två tiosidiga tärningar (2T10). Om helandet misslyckas (0 på båda tärningar), fumlar läkaren skadar kortet istället. Skadan motsvarar halva det Aktiva kortets återstående Skadetålighet (runda uppåt vid udda tal, alltså högre skada). 
 
 *Troféer* är i sig värdelösa för spelets utgång, men ger spelaren som fann den tre kort extra på hand när Troféen tjänades in.
 
