@@ -38,6 +38,8 @@ Klädda kort, vare sig de ingår i Kungahuset eller är Legosoldater, tål enlig
 
 Spelarna väljer varsin färg: sitt Kungahus. De får de klädda korten av den färgen på hand från början. De övriga korten blandas och läggs i Draghögen. Varje spelare får sedan 17/14/11 (beroende på om 2/3/4 spelare) slumpmässiga andra kort på hand från Draghögen.
 
+Spelarna väljer varsitt Aktivt kort från handen och lägger framför sig med baksidan upp. När alla spelare är redo vänds de Aktiva korten upp och spelet kan börja!
+
 När det är en spelares tur kan denne göra en av tre drag:
 
  - Byta ut kort: spelaren tar valfritt antal kort från en och samma färg, visar för övriga och lägger sedan i Kasthögen. Spelaren får dra samma antal kort från Draghögen.
