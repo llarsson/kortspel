@@ -18,15 +18,17 @@ När ett Kungahus har fallit går vinsten till den som utrotade det Kungahuset o
 
 ## Definitioner
 
-*Legosoldat* är ett klätt kort som inte ingår i spelarens kungahus. De kan ställas upp som Aktiva kort istället för någon ur det egna Kungahuset och måste således bekämpas av motståndaren.
+*Hjälte* är ett klätt kort som inte ingår i spelarens Kungahus, men som spelaren fått upp på hand. Det kan spelas ut i form av Legosoldat, Lönnmördare eller Läkare.
 
-*Lönnmördare* är ett klätt kort som en spelare använder för att anfalla motståndarens Aktiva kort. Attacken kan skada mycket, men även misslyckas. I värsta fall dör Lönnmördaren och blir försvarande spelarens Trofé!
+*Legosoldat* är en Hjälte som används för att försvara Kungahuset. De kan ställas upp som Aktiva kort istället för någon ur det egna Kungahuset och måste således bekämpas av motståndaren.
 
-*Läkare* är ett klätt kort som spelaren använder för att hela sitt egna Aktiva kort. Helandet kan dock misslyckas! Se regler nedan.
+*Lönnmördare* är en Hjälte som används för att anfalla motståndarens Aktiva kort. Attacken kan skada mycket, men även misslyckas. I värsta fall dör Lönnmördaren för att den blev upptäckt av slottets vakter och blir försvarande spelarens Trofé!
 
-*Troféer* är i sig värdelösa för spelets utgång, men ger spelaren som fann den tre kort extra på hand när Trofén tjänades in.
+*Läkare* är en Hjälte som spelaren använder för att hela sitt Aktiva kort. Helandet kan dock misslyckas för att läkaren slinter med kniven eller överdoserar medicinen! I värsta fall lämnas det Aktiva kortet grovt skadat och kan besegras hur enkelt som helst av motståndaren.
 
-*T10* är en tiosidig tärning. Nollor är låga i detta spel.
+*Troféer* är i sig värdelösa för spelets utgång, men ger spelaren som tjänade in den tre extra kort på hand. Att tjäna in Troféer är ett bra sätt att få överhanden mot sin motståndare.
+
+*T10* är en tiosidig tärning. Nollor räknas som låga i detta spel.
 
 ## Skadetålighet
 
