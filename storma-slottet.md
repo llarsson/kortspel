@@ -10,7 +10,7 @@ Högar: 1 Draghög, 1 Kasthög, 1 “Aktivt kort” per spelare.
 
 Målet är att utrota fiendens Kungahus, vilket motsvaras av de klädda korten av en viss färg. 
 
-De färger som inte ingår i ett Kungahus är istället Hjältar, som spelare kan använda som Legosoldater, Läkare eller Lönnmördare. 
+De färger som inte ingår i ett Kungahus är istället hjältar, som spelare kan använda som Legosoldater, Läkare eller Lönnmördare. 
 
 Genom att besegra kort får vinnaren av slaget dessa kort som Troféer.
 
@@ -28,11 +28,11 @@ När ett Kungahus har fallit går vinsten till den som utrotade det Kungahuset o
 
 ## Skadetålighet
 
-Klädda kort, vare sig de ingår i Kungahuset eller är Hjältar, tål enligt följande: Knektar tål 25, Kungar 30 och Damer 35. Har de åsamkats Skadepoäng så att deras kvarvarande poäng är nere på 0, tas de ur spel och tillfaller anfallande spelare som Troféer.
+Klädda kort, vare sig de ingår i Kungahuset eller är Legosoldater, tål enligt följande: Knektar tål 25, Kungar 30 och Damer 35. Har de åsamkats Skadepoäng så att deras kvarvarande poäng är nere på 0, tas de ur spel och tillfaller anfallande spelare som Troféer.
 
 ## Tillvägagångssätt
 
-Spelarna väljer varsin färg: sitt Kungahus. De får de klädda korten av den färgen. Blanda de övriga korten och lägg i Draghögen. Varje spelare får sedan 17/14/11 (beroende på om 2/3/4 spelare) slumpmässiga andra kort på hand från Draghögen.
+Spelarna väljer varsin färg: sitt Kungahus. De får de klädda korten av den färgen på hand från början. De övriga korten blandas och läggs i Draghögen. Varje spelare får sedan 17/14/11 (beroende på om 2/3/4 spelare) slumpmässiga andra kort på hand från Draghögen.
 
 När det är en spelares tur kan denne göra en av tre drag:
 
