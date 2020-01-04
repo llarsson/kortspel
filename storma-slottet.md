@@ -1,6 +1,6 @@
 # Storma slottet!
 
-Spelare: 2-4
+Spelare: 2
 
 Kortlek: 1 vanlig kortlek inklusive Jokrar.
 
@@ -36,11 +36,11 @@ Klädda kort, vare sig de ingår i Kungahuset eller är Legosoldater, tål enlig
 
 ## Tillvägagångssätt
 
-Spelarna väljer varsin färg: sitt Kungahus. De får de klädda korten av den färgen på hand från början. De övriga korten blandas och läggs i Draghögen. Varje spelare får sedan 17/14/11 (beroende på om 2/3/4 spelare) slumpmässiga andra kort på hand från Draghögen.
+Spelarna väljer varsin färg: sitt Kungahus. De får de klädda korten av den färgen på hand från början. De övriga korten blandas och läggs i Draghögen. Varje spelare får sedan 17 slumpmässiga andra kort på hand från Draghögen. Totalt har spelarna alltså 20 kort på hand när spelet kan börja.
 
 Spelarna väljer varsitt Aktivt kort från handen och lägger framför sig med baksidan upp. När alla spelare är redo vänds de Aktiva korten upp och spelet kan börja!
 
-När det är en spelares tur kan denne göra en av tre drag:
+När det är en spelares tur kan denne göra en av följande drag:
 
  - Byta ut kort: spelaren tar valfritt antal kort från en och samma färg, visar för övriga och lägger sedan i Kasthögen. Spelaren får dra samma antal kort från Draghögen.
  - Anfalla: spelaren får anfalla med valfritt antal kort från en och samma färg (vanliga sifferkort och Lönnmördare av rätt färg samt Jokrar kan kombineras fritt). Dock kan inte kort från samma färg som motståndarens Aktiva kort användas (exempelvis kan alltså inte spader Kung skadas av några andra spader). De kort som ingår i anfallet måste spelas ut på samma gång. Man får alltså inte “se hur det gick” och sen lägga till fler kort till anfallet. Kort som åsamkat skada läggs på det Aktiva kortet och kallas för Skadekort.
@@ -55,7 +55,9 @@ När det är en spelares tur kan denne göra en av tre drag:
 
 När spelaren gjort sitt drag säkerställs att denne har minst 10 kort på hand innan eventuell belöning för nya Troféer delas ut.
 
-Kort som ingick vid anfall eller helande läggs på Kasthögen. Framgångsrika Lönnmördare och Läkare läggs också i Kasthögen. Läkare som misslyckats hela ligger kvar som Skadekort (kom ihåg hur mycket skada de gjorde, så denna kanske kan helas senare!). Troféer tillfaller den spelare som förtjänat dem och spelarna belönas med tre kort från Draghögen per ny Trofé.
+Kort som ingick vid anfall eller helande läggs på Kasthögen. Framgångsrika Lönnmördare och Läkare läggs också i Kasthögen. Läkare som misslyckats hela ligger kvar som Skadekort (kom ihåg hur mycket skada de gjorde, så denna kanske kan helas senare!). 
+
+Troféer tillfaller den spelare som förtjänat dem och spelarna belönas med tre kort från Draghögen per ny Trofé. Kort för intjänade Troféer skall tas från Draghögen *efter* att spelaren säkerställt att denne har minst 10 kort på hand. Exempel: Kim hade 7 kort på hand när hen besegrade motståndarens Hjäte. För detta skall Kim få 1 Trofé och säkerställer först att ha 10 kort på hand och sedan tre extra för Trofén. Kim har alltså därefter 13 kort på hand innan det är motstådnarens tur.
 
 Spelare som förlorat sitt Aktiva kort måste genast ersätta det med ett nytt klätt kort från handen eller flytta ut ett kort ur Sjukstugan, ifall sådant finns (spelaren väljer).
 
