@@ -57,7 +57,7 @@ När spelaren gjort sitt drag säkerställs att denne har minst 10 kort på hand
 
 Kort som ingick vid anfall eller helande läggs på Kasthögen. Framgångsrika Lönnmördare och Läkare läggs också i Kasthögen. Läkare som misslyckats hela ligger kvar som Skadekort (kom ihåg hur mycket skada de gjorde, så denna kanske kan helas senare!). 
 
-Troféer tillfaller den spelare som förtjänat dem och spelarna belönas med tre kort från Draghögen per ny Trofé. Kort för intjänade Troféer skall tas från Draghögen *efter* att spelaren säkerställt att denne har minst 10 kort på hand. Exempel: Kim hade 7 kort på hand när hen besegrade motståndarens Hjäte. För detta skall Kim få 1 Trofé och säkerställer först att ha 10 kort på hand och sedan tre extra för Trofén. Kim har alltså därefter 13 kort på hand innan det är motstådnarens tur.
+Troféer tillfaller den spelare som förtjänat dem och spelarna belönas med tre kort från Draghögen per ny Trofé. Kort för intjänade Troféer skall tas från Draghögen *efter* att spelaren säkerställt att denne har minst 10 kort på hand. Exempel: Kim hade 7 kort på hand när hen besegrade motståndarens Legosoldat. För detta skall Kim få 1 Trofé och säkerställer först att ha 10 kort på hand och sedan tre extra för Trofén. Kim har alltså därefter 13 kort på hand innan det är motstådnarens tur.
 
 Spelare som förlorat sitt Aktiva kort måste genast ersätta det med ett nytt klätt kort från handen eller flytta ut ett kort ur Sjukstugan, ifall sådant finns (spelaren väljer).
 
